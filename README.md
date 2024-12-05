@@ -1,6 +1,8 @@
 # bluetigerbilly
 # Color, Animal, NAME!
 
+# Github link - https://github.com/cheryl-thelongenchanter/bluetigerbilly.git
+
 # Updated 12/4/2024 -MC
 
 # This is my firs github repository and I am using it for CIS20231N1 Linux, Professor Gilson.
